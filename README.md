@@ -11,13 +11,13 @@ https://github.com/MachineMavericks/group-project
 
 ### Setting up the web-application
 
-Once the repository of the project is cloned, create a virtual environment for the project to store all packages the application requires. 
+Once the repository of the project is cloned, or downloaded from Cranfield's Canvas, create a virtual environment for the project to store all packages the application requires. 
 
-To create a virtual environment, open your command prompt or terminal and navigate to the backend sub-directory:
+To create a virtual environment, first open your command prompt or terminal and navigate to the backend sub-directory:
 
 ```cd ./backend```
 
-Once in the backend sub-directory, create a new virtual environment using the venv module in Python. The command to create a virtual environment is:
+Once in the backend directory, create a new virtual environment using the venv module in Python. The command to create a virtual environment is:
 
 ```python3 -m venv venv```
 
