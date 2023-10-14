@@ -4,6 +4,8 @@ Discover, analyze and predict the temporal and spatial patterns of complex netwo
 
 © Copyright 2023, All rights reserved to Machine Mavericks
 
+https://github.com/MachineMavericks/group-project
+
 **Authors:** Hans Haller - Guillaume Barrier - Julien Thomas - Virendra Keshari - Amit Tamhane
 
 Students (CSTE: CIDA & SETC) at Cranfield Uni. SATM, Bedfordshire, United Kingdom.
@@ -17,8 +19,6 @@ Railways transportation systems play a critical role in modern societies, enabli
 In the past, Machine Learning algorithms have been used to identify key routes and nodes in railway networks, optimise train schedules, and predict maintenance needs. This has resulted in significant improvements in operational efficiency, reduced travel times, and improved safety. As demonstrated in this project, the use of Machine Learning algorithms such as clustering methods, shortest path algorithms, and resilience analysis can provide valuable insights into railway network performance and help to identify areas for improvement.
 
 This following paper is the technical report for the 2022/2023 Application in Practical High- end Computing Group Project of the Master of Science in Computational and Software Tech- niques in Engineering of Cranfield University. It aims to provide a toolbox for temporal and spatial pattern analysis of complex networks. The following work is specifically dedicated to rail- way networks to provide quick and reliable information to whoever may be involved in temporal and spatial railway architecture decision making. Some results of the solution are presented and discussed alongside relevance and potential improvements.
-
-https://github.com/MachineMavericks/group-project
 
 ## Implementation
 
